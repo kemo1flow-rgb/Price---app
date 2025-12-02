@@ -1,0 +1,9 @@
+{
+  "name": "تطبيق أسعار الأصناف",
+  "short_name": "الأسعار",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": []
+}
